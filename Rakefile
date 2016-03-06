@@ -15,7 +15,7 @@ build_folder = File.join(script_folder, 'build')
 release_folder = File.join(build_folder, 'release')
 
 xcworkspace_name = 'ParseFacebookUtils.xcworkspace'
-framework_name = 'ParseFacebookUtilsV4.framework'
+framework_name = 'BackandParseFacebookUtilsV4.framework'
 
 namespace :build do
   desc 'Build iOS framework.'
@@ -58,8 +58,8 @@ namespace :build do
 end
 
 namespace :package do
-  ios_package_name = 'ParseFacebookUtils-iOS.zip'
-  tvos_package_name = 'ParseFacebookUtils-tvOS.zip'
+  ios_package_name = 'BackandParseFacebookUtils-iOS.zip'
+  tvos_package_name = 'BackandParseFacebookUtils-tvOS.zip'
 
   desc 'Build and package all frameworks'
   task :frameworks do

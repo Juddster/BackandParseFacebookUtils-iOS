@@ -18,12 +18,12 @@ Pods
 DerivedData
 build
 
-Vendor/Parse.framework
+Vendor/Backand.framework
 Vendor/Bolts.framework
 Vendor/FBSDKCoreKit.framework
 Vendor/FBSDKLoginKit.framework
 
-Vendor/tvOS/Parse.framework
+Vendor/tvOS/Backand.framework
 Vendor/tvOS/Bolts.framework
 Vendor/tvOS/FBSDKCoreKit.framework
 Vendor/tvOS/FBSDKTVOSKit.framework

@@ -11,8 +11,8 @@
 
 #import <Bolts/BFTask.h>
 
-#import <Parse/PFConstants.h>
-#import <Parse/PFUser.h>
+#import <Backand/PFConstants.h>
+#import <Backand/PFUser.h>
 
 #import <FBSDKCoreKit/FBSDKAccessToken.h>
 

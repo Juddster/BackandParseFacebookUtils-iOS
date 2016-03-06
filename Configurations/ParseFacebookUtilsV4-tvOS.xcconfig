@@ -10,8 +10,8 @@
 #include "Shared/Platform/tvOS.xcconfig"
 #include "Shared/Product/Framework.xcconfig"
 
-PRODUCT_NAME = ParseFacebookUtilsV4
-PRODUCT_BUNDLE_IDENTIFIER = com.parse.facebookutils-tvos
+PRODUCT_NAME = BackandParseFacebookUtilsV4
+PRODUCT_BUNDLE_IDENTIFIER = com.backand.facebookutils-tvos
 
 MACH_O_TYPE = staticlib
 DEFINES_MODULE = YES
